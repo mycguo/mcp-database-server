@@ -1,0 +1,14 @@
+[project]
+name = "my-app"
+version = "0.1.0"
+dependencies = [
+  "streamlit",
+  "openai",
+  "langchain",
+  "langchain-openai",
+  "langchain-community",
+  "langchain-experimental",
+  "sqlalchemy",
+  "pyodbc",
+  "psycopg2-binary",
+]
